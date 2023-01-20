@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙏, I'm Sanskar Atrey</h1>
 <h3 align="center">Energetic and curiosity-driven Android, iOS, React Native and Full Stack Web developer. Experience in building, integrating, testing, and supporting mobile and web applications.</h3>
 
-- 👨‍💻 All of my projects are available at [sanskaratrey.one](https://sanskaratrey.one/)
+- 👨‍💻 All of my projects are available at [sanskaratrey.com](https://sanskaratrey.com/)
 
 - 📫 How to reach me **sanskaratrey22@gmail.com**
 
